@@ -1,11 +1,11 @@
 const users = [
   {
     name: "Ali Goudarzi",
-    position: "FrontEnd Developer",
+    position: "FrontEndDeveloper",
   },
   {
     name: "Ali Bayat",
-    position: "FrontEnd Developer",
+    position: "FrontEndDeveloper",
   },
   {
     name: "Erfan Yousefi",
